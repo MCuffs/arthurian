@@ -16,7 +16,7 @@ const resources = {
             },
             hero: {
                 badge: 'Creator Commerce Partnership Platform',
-                title: 'Arthurian',
+                title: 'Applied Korea',
                 subtitle: '크리에이터와 브랜드가 만나는 오픈 플랫폼',
                 desc: '자유롭게 등록하고, 투명하게 연결되세요. 아서리안은 소속이나 계약 없이, 기회와 성과를 연결하는 마켓플레이스입니다.',
                 cta: {
@@ -255,7 +255,7 @@ const resources = {
             },
             hero: {
                 badge: 'Creator Commerce Partnership Platform',
-                title: 'Arthurian',
+                title: 'Applied Korea',
                 subtitle: 'Where Creators Meet Brands',
                 desc: 'An open platform connecting creators with opportunities and brands with real results. No exclusivity, just partnership.',
                 cta: {
@@ -290,7 +290,7 @@ const resources = {
                     items: {
                         0: 'We do not manage. We connect opportunities.',
                         1: 'Open to everyone without exclusivity or contracts.',
-                        2: 'Arthurian grows only when our partners succeed.'
+                        2: 'Applied Korea grows only when our partners succeed.'
                     }
                 },
                 influencers: {
@@ -303,7 +303,7 @@ const resources = {
             },
             studio: {
                 identity: 'Platform Identity',
-                title: 'Arthurian is not an agency.',
+                title: 'Applied Korea is not an agency.',
                 desc: 'We define ourselves as a platform, not a management firm. We provide the infrastructure for creators to lead their own business, from TikTok Live to YouTube Branded Content.',
                 values: {
                     growth: { title: 'Open Partnership', desc: 'No exclusive contracts. Freely participate in projects you choose.' },
@@ -320,7 +320,7 @@ const resources = {
             brand: {
                 collab: 'Campaign Process',
                 title: 'A platform building commerce, not just ads.',
-                desc: 'Exposure alone is not enough. Arthurian holds a pool of creators who drive actual purchase conversions through Live Commerce, Social Group Buying, and Branded Content.',
+                desc: 'Exposure alone is not enough. Applied Korea holds a pool of creators who drive actual purchase conversions through Live Commerce, Social Group Buying, and Branded Content.',
                 features: {
                     matching: { title: 'Shoppable Content', desc: 'We produce content linked to purchase points, not just promo videos.' },
                     performance: { title: 'Guaranteed ROI', desc: 'We prove performance with ROI and ROAS as key KPIs, not just views.' },
@@ -333,7 +333,7 @@ const resources = {
                 },
                 application: {
                     title: 'Start Campaign',
-                    subtitle: 'Start a successful campaign on the Arthurian Platform.',
+                    subtitle: 'Start a successful campaign on the Applied Korea Platform.',
                     fields: {
                         company: 'Company/Brand Name',
                         contact: 'Contact Person',
@@ -356,7 +356,7 @@ const resources = {
                 },
                 policy: 'Fee Structure',
                 title: 'Transparent Cost Structure.',
-                desc: 'No hidden fees or opaque costs. Arthurian clearly defines platform usage fees and matching commissions.',
+                desc: 'No hidden fees or opaque costs. Applied Korea clearly defines platform usage fees and matching commissions.',
                 values: {
                     transparency: { title: 'Transparent Fees', desc: 'Reasonable fee structure that only occurs upon successful matching.' },
                     return: { title: 'Performance Incentives', desc: '100% of excess incentives go to the creator when goals are exceeded.' },
@@ -486,21 +486,21 @@ const resources = {
     RU: {
         translation: {
             nav: { home: 'Главная', studio: 'Студия', brand: 'Бренд', benefit: 'Преимущества', creatorCase: 'Кейсы', application: 'Подать заявку' },
-            hero: { badge: 'Рост за пределами платформы', title: 'Arthurian Studio', subtitle: 'Студия для авторов, растущих за пределами платформ.', desc: 'Мы общаемся прозрачно и честно с авторами и брендами.', stats: { views: 'Всего просмотров', collabs: 'Коллаборации' } },
+            hero: { badge: 'Рост за пределами платформы', title: 'Applied Korea Studio', subtitle: 'Студия для авторов, растущих за пределами платформ.', desc: 'Мы общаемся прозрачно и честно с авторами и брендами.', stats: { views: 'Всего просмотров', collabs: 'Коллаборации' } },
             tabs: { creators: { title: 'Creators', items: { 0: 'Различные решения...', 1: 'Выплата стимулов...', 2: 'Поддержка брендов...' } }, brands: { title: 'Brands', items: { 0: 'Прямая связь...', 1: 'Коллаборации...', 2: 'Партнерства...' } }, studio: { title: 'Studio', items: { 0: 'Философия...', 1: 'Структура...', 2: 'Каналы роста...' } }, influencers: { title: 'Current Influencers', next: { name: 'Кто следующий?', role: 'Это можете быть вы.' } } },
-            studio: { identity: 'Studio Identity', title: 'Arthurian был запущен для устойчивого влияния.', desc: 'Мы снижаем нагрузку от ежедневных трансляций...', values: { growth: { title: 'Устойчивый рост', desc: 'Мы стремимся к росту каналов...' }, operation: { title: 'Работа без нагрузки', desc: 'Систематическая работа...' }, potential: { title: 'Раскрытие потенциала', desc: 'Мы развиваем уникальный потенциал...' } }, partnership: { title: 'Как мы строим партнерство', desc: 'Мы сотрудничаем глубоко...', creators: { label: 'Для авторов', desc: 'Вместе стратегии роста...' }, brands: { label: 'Для брендов', desc: 'Долгосрочные коллаборации...' } } },
+            studio: { identity: 'Studio Identity', title: 'Applied Korea был запущен для устойчивого влияния.', desc: 'Мы снижаем нагрузку от ежедневных трансляций...', values: { growth: { title: 'Устойчивый рост', desc: 'Мы стремимся к росту каналов...' }, operation: { title: 'Работа без нагрузки', desc: 'Систематическая работа...' }, potential: { title: 'Раскрытие потенциала', desc: 'Мы развиваем уникальный потенциал...' } }, partnership: { title: 'Как мы строим партнерство', desc: 'Мы сотрудничаем глубоко...', creators: { label: 'Для авторов', desc: 'Вместе стратегии роста...' }, brands: { label: 'Для брендов', desc: 'Долгосрочные коллаборации...' } } },
             brand: { collab: 'Brand Collaboration', title: 'Естественное соединение брендов и авторов.', desc: 'Анализ характеристик канала...', features: { matching: { title: 'Точный подбор', desc: 'Тон контента, целевая аудитория...' }, performance: { title: 'Ориентация на результат', desc: 'Четкие цели и KPI...' }, partnership: { title: 'Долгосрочное партнерство', desc: 'Доверие к бренду...' } }, offering: { title: 'Что мы предлагаем', brands: { label: 'Для брендов', desc: 'Полный сервис...' }, creators: { label: 'Для авторов', desc: 'Направление коллабораций...' } } },
-            benefit: { policy: 'Benefit Policy', title: 'Какие преимущества предлагает Arthurian?', desc: 'Награды агентства делятся с авторами...', values: { transparency: { title: 'Полная прозрачность', desc: 'Четкое раскрытие деталей...' }, return: { title: 'Честный возврат', desc: 'Возврат результатов автору...' }, trust: { title: 'Работа на доверии', desc: 'Снижение расходов, доверие...' } }, principles: { title: 'Принципы Arthurian', support: { title: 'Возврат поддержки', desc: 'Прозрачная структура...' }, profit: { title: '100% гарантия дохода', desc: 'Доход принадлежит автору...' } } }
+            benefit: { policy: 'Benefit Policy', title: 'Какие преимущества предлагает Applied Korea?', desc: 'Награды агентства делятся с авторами...', values: { transparency: { title: 'Полная прозрачность', desc: 'Четкое раскрытие деталей...' }, return: { title: 'Честный возврат', desc: 'Возврат результатов автору...' }, trust: { title: 'Работа на доверии', desc: 'Снижение расходов, доверие...' } }, principles: { title: 'Принципы Applied Korea', support: { title: 'Возврат поддержки', desc: 'Прозрачная структура...' }, profit: { title: '100% гарантия дохода', desc: 'Доход принадлежит автору...' } } }
         }
     },
     ID: {
         translation: {
             nav: { home: 'Beranda', studio: 'Studio', brand: 'Merek', benefit: 'Manfaat', creatorCase: 'Kasus Kreator', application: 'Daftar Sekarang' },
-            hero: { badge: 'Pertumbuhan di Luar Platform', title: 'Arthurian Studio', subtitle: 'Studio bagi kreator yang tumbuh melampaui platform.', desc: 'Kami berkomunikasi secara transparan dan jujur.', stats: { views: 'Total Tayangan', collabs: 'Kolaborasi Merek' } },
+            hero: { badge: 'Pertumbuhan di Luar Platform', title: 'Applied Korea Studio', subtitle: 'Studio bagi kreator yang tumbuh melampaui platform.', desc: 'Kami berkomunikasi secara transparan dan jujur.', stats: { views: 'Total Tayangan', collabs: 'Kolaborasi Merek' } },
             tabs: { creators: { title: 'Creators', items: { 0: 'Berbagai solusi...', 1: 'Pembayaran insentif...', 2: 'Dukungan merek...' } }, brands: { title: 'Brands', items: { 0: 'Hubungan langsung...', 1: 'Kolaborasi produk...', 2: 'Kemitraan...' } }, studio: { title: 'Studio', items: { 0: 'Filosofi operasional...', 1: 'Struktur sistem...', 2: 'Saluran pertumbuhan...' } }, influencers: { title: 'Current Influencers', next: { name: 'Siapa selanjutnya?', role: 'Bisa jadi Anda.' } } },
-            studio: { identity: 'Studio Identity', title: 'Arthurian diluncurkan untuk influencing berkelanjutan.', desc: 'Kami mengurangi beban live streaming harian...', values: { growth: { title: 'Pertumbuhan Berkelanjutan', desc: 'Kami bertujuan untuk pertumbuhan jangka panjang...' }, operation: { title: 'Operasi Bebas Beban', desc: 'Melindungi energi kreator...' }, potential: { title: 'Memperluas Potensi', desc: 'Mengembangkan potensi unik...' } }, partnership: { title: 'Cara Kami Membangun Kemitraan', desc: 'Kolaborasi mendalam...', creators: { label: 'Untuk kreator', desc: 'Strategi pertumbuhan bersama...' }, brands: { label: 'Untuk merek', desc: 'Kolaborasi merek jangka panjang...' } } },
+            studio: { identity: 'Studio Identity', title: 'Applied Korea diluncurkan untuk influencing berkelanjutan.', desc: 'Kami mengurangi beban live streaming harian...', values: { growth: { title: 'Pertumbuhan Berkelanjutan', desc: 'Kami bertujuan untuk pertumbuhan jangka panjang...' }, operation: { title: 'Operasi Bebas Beban', desc: 'Melindungi energi kreator...' }, potential: { title: 'Memperluas Potensi', desc: 'Mengembangkan potensi unik...' } }, partnership: { title: 'Cara Kami Membangun Kemitraan', desc: 'Kolaborasi mendalam...', creators: { label: 'Untuk kreator', desc: 'Strategi pertumbuhan bersama...' }, brands: { label: 'Untuk merek', desc: 'Kolaborasi merek jangka panjang...' } } },
             brand: { collab: 'Brand Collaboration', title: 'Menghubungkan merek dan kreator secara alami.', desc: 'Analisis karakteristik saluran...', features: { matching: { title: 'Pencocokan Tepat', desc: 'Nada konten, target audiens...' }, performance: { title: 'Berorientasi Kinerja', desc: 'Tujuan kampanye jelas...' }, partnership: { title: 'Kemitraan Jangka Panjang', desc: 'Kepercayaan merek...' } }, offering: { title: 'Apa yang Kami Tawarkan', brands: { label: 'Untuk merek', desc: 'Layanan lengkap...' }, creators: { label: 'Untuk kreator', desc: 'Arah kolaborasi...' } } },
-            benefit: { policy: 'Benefit Policy', title: 'Apa manfaat yang ditawarkan Arthurian?', desc: 'Berbagi imbalan agensi dengan kreator...', values: { transparency: { title: 'Transparansi Penuh', desc: 'Pengungkapan detail...' }, return: { title: 'Pengembalian Adil', desc: 'Mengembalikan hasil ke kreator...' }, trust: { title: 'Operasi Berbasis Kepercayaan', desc: 'Mengurangi biaya, kepercayaan...' } }, principles: { title: 'Prinsip Arthurian', support: { title: 'Pengembalian Pendapatan', desc: 'Struktur transparan...' }, profit: { title: 'Jaminan Pendapatan 100%', desc: 'Pendapatan milik kreator...' } } }
+            benefit: { policy: 'Benefit Policy', title: 'Apa manfaat yang ditawarkan Applied Korea?', desc: 'Berbagi imbalan agensi dengan kreator...', values: { transparency: { title: 'Transparansi Penuh', desc: 'Pengungkapan detail...' }, return: { title: 'Pengembalian Adil', desc: 'Mengembalikan hasil ke kreator...' }, trust: { title: 'Operasi Berbasis Kepercayaan', desc: 'Mengurangi biaya, kepercayaan...' } }, principles: { title: 'Prinsip Applied Korea', support: { title: 'Pengembalian Pendapatan', desc: 'Struktur transparan...' }, profit: { title: 'Jaminan Pendapatan 100%', desc: 'Pendapatan milik kreator...' } } }
         }
     }
 };

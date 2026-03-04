@@ -35,7 +35,7 @@ export function VisaCalculator() {
   return (
     <div className="min-h-screen bg-[#F8FBFF] text-[#112E51] font-sans">
       <Helmet>
-        <title>F-2-7 Visa Point Calculator | Korea Immigration | Arthurian</title>
+        <title>F-2-7 Visa Point Calculator | Korea Immigration | Applied Korea</title>
         <meta name="description" content="Calculate your points for the Korean F-2-7 Resident Visa instantly. See if you qualify to live and work in South Korea long-term." />
         <link rel="canonical" href="https://www.arthrian.cloud/visa-calculator" />
       </Helmet>
@@ -43,7 +43,7 @@ export function VisaCalculator() {
       {/* Header */}
       <header className="border-b border-slate-100 bg-white sticky top-0 z-20">
         <div className="max-w-[900px] mx-auto px-6 py-4 flex items-center justify-between">
-          <Link to="/" className="font-extrabold tracking-tight text-[#29AEE1] text-[20px]">ARTHURIAN</Link>
+          <Link to="/" className="font-extrabold tracking-tight text-[#29AEE1] text-[20px]">APPLIED KOREA</Link>
           <div className="flex items-center gap-4">
             <Link to="/blog" className="text-sm font-semibold text-slate-600 hover:text-[#112E51]">Blog</Link>
             <Link to="/" className="text-sm font-semibold text-slate-600 hover:text-[#112E51]">Home</Link>

@@ -35,7 +35,7 @@ export function Hero() {
                         {/* Title with Gradient Effect */}
                         <h1 className="text-7xl md:text-9xl font-bold tracking-tighter mb-6 leading-[0.9]">
                             <span className="bg-clip-text text-transparent bg-gradient-to-r from-neutral-900 via-neutral-600 to-neutral-800">
-                                Arthurian.
+                                Applied Korea.
                             </span>
                         </h1>
 

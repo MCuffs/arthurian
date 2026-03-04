@@ -6,7 +6,7 @@ export function Footer() {
       <div className="max-w-[1400px] mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-8">
         <div>
           <h2 className="text-xl font-normal tracking-widest text-neutral-900 uppercase mb-4" style={{ fontFamily: "'Cormorant Garamond', serif" }}>
-            Arthurian
+            Applied Korea
           </h2>
           <p className="text-sm text-neutral-400 max-w-xs font-light">
             Connecting creators and brands through data-driven commerce solutions.
@@ -38,7 +38,7 @@ export function Footer() {
 
       <div className="max-w-[1400px] mx-auto mt-16 pt-8 border-t border-neutral-50 flex flex-col md:flex-row justify-between items-center gap-4">
         <p className="text-xs text-neutral-300">
-          © {new Date().getFullYear()} Arthurian Studio. All rights reserved.
+          © {new Date().getFullYear()} Applied Korea Studio. All rights reserved.
         </p>
       </div>
     </footer>

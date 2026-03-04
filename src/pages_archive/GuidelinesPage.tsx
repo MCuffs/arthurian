@@ -3,7 +3,7 @@ import { SEO } from '../components/SEO';
 export function GuidelinesPage() {
     return (
         <div className="bg-white min-h-screen pt-32 pb-24 px-6">
-            <SEO title="Guidelines" description="Arthurian Community and Brand Safety Guidelines" />
+            <SEO title="Guidelines" description="Applied Korea Community and Brand Safety Guidelines" />
             <div className="max-w-[800px] mx-auto">
                 <h1 className="text-4xl font-bold mb-12">Guidelines</h1>
 

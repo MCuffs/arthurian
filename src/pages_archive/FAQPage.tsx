@@ -4,7 +4,7 @@ import { FAQ } from '../components/FAQ';
 export function FAQPage() {
     return (
         <div className="bg-white min-h-screen pt-32 pb-24">
-            <SEO title="FAQ" description="Frequently Asked Questions about Arthurian Studio" />
+            <SEO title="FAQ" description="Frequently Asked Questions about Applied Korea Studio" />
             <div className="max-w-[1000px] mx-auto px-6">
                 <div className="text-center mb-16">
                     <h1 className="text-4xl md:text-5xl font-bold mb-6">FAQ</h1>

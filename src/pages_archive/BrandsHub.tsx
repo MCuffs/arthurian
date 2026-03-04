@@ -8,7 +8,7 @@ export function BrandsHub() {
         <div className="bg-white min-h-screen pt-32 pb-24">
             <SEO
                 title="Brand Partners"
-                description="Join the leading brands growing with Arthurian's creator network."
+                description="Join the leading brands growing with Applied Korea's creator network."
             />
 
             <div className="max-w-[1400px] mx-auto px-6 md:px-12">

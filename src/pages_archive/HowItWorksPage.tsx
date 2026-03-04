@@ -3,9 +3,9 @@ import { SEO } from '../components/SEO';
 export function HowItWorksPage() {
     return (
         <div className="bg-white min-h-screen pt-32 pb-24 px-6">
-            <SEO title="How It Works" description="Learn how Arthurian connects creators and brands." />
+            <SEO title="How It Works" description="Learn how Applied Korea connects creators and brands." />
             <div className="max-w-[1000px] mx-auto">
-                <h1 className="text-5xl md:text-6xl font-bold mb-16 text-center">How Arthurian Works</h1>
+                <h1 className="text-5xl md:text-6xl font-bold mb-16 text-center">How Applied Korea Works</h1>
                 <div className="space-y-16">
                     {[
                         { step: '01', title: '매칭', desc: '브랜드의 목표와 제품에 맞는 최적의 크리에이터를 AI와 데이터로 매칭합니다.' },

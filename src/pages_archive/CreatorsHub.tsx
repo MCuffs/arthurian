@@ -8,7 +8,7 @@ import { SEO } from '../components/SEO';
 const MOCK_CREATORS = [
     {
         id: 1,
-        name: 'Arthurian',
+        name: 'Applied Korea',
         handle: 'arthurian_studio',
         vertical: 'threads',
         category: 'Lifestyle',

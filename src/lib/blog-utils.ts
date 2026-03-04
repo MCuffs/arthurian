@@ -13,7 +13,7 @@ const blogPosts: BlogPost[] = [
         tags: ['창업 스토리', '에이전시 문화', '틱톡 라이브', '지속가능성'],
         thumbnail: '/blog/images/why-arthurian-thumbnail.jpg',
         readTime: '7 min read',
-        author: 'Arthurian Team',
+        author: 'Applied Korea Team',
         featured: true
     },
     {
@@ -47,7 +47,7 @@ const blogPosts: BlogPost[] = [
         tags: ['스레드 마케팅', 'Threads', '마케팅 트렌드', 'ROI', '브랜드 캠페인'],
         thumbnail: '/blog/images/threads-marketing-power.png',
         readTime: '8 min read',
-        author: 'Arthurian Marketing Team',
+        author: 'Applied Korea Marketing Team',
         featured: true
     }
 ];

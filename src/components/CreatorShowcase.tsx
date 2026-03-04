@@ -9,7 +9,7 @@ import { Container } from './Container';
 const THREADS_CREATORS = [
     {
         id: 'threads-0',
-        name: 'Arthurian',
+        name: 'Applied Korea',
         handle: 'arthurian_studio',
         image: '/influencers/KakaoTalk_20260125_204145544.jpg',
         followers: '',

@@ -43,7 +43,7 @@ export function ThreadsInfluencerLanding() {
                         className="max-w-4xl"
                     >
                         <div className="flex items-center gap-3 mb-6">
-                            <span className="px-3 py-1 bg-white text-black text-xs font-bold uppercase tracking-wider">Arthurian Service</span>
+                            <span className="px-3 py-1 bg-white text-black text-xs font-bold uppercase tracking-wider">Applied Korea Service</span>
                             <div className="h-px bg-neutral-800 w-20"></div>
                         </div>
                         <h1 className="text-6xl md:text-8xl lg:text-9xl font-normal tracking-tight mb-8 leading-none">

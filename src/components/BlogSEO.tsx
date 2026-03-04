@@ -21,11 +21,11 @@ export function BlogSEO({
     publishedTime,
     modifiedTime,
     tags = [],
-    author = 'Arthurian Studio'
+    author = 'Applied Korea Studio'
 }: BlogSEOProps) {
     const fullUrl = `https://arthurian.studio${url}`;
     const fullImageUrl = image ? `https://arthurian.studio${image}` : 'https://arthurian.studio/logo.png';
-    const siteTitle = `${title} | Arthurian Studio`;
+    const siteTitle = `${title} | Applied Korea Studio`;
 
     return (
         <Helmet>
@@ -40,7 +40,7 @@ export function BlogSEO({
             <meta property="og:description" content={description} />
             <meta property="og:url" content={fullUrl} />
             <meta property="og:image" content={fullImageUrl} />
-            <meta property="og:site_name" content="Arthurian Studio" />
+            <meta property="og:site_name" content="Applied Korea Studio" />
 
             {type === 'article' && publishedTime && (
                 <>
@@ -79,7 +79,7 @@ export function BlogSEO({
                         },
                         publisher: {
                             '@type': 'Organization',
-                            name: 'Arthurian Studio',
+                            name: 'Applied Korea Studio',
                             logo: {
                                 '@type': 'ImageObject',
                                 url: 'https://arthurian.studio/logo.png'

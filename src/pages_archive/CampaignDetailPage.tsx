@@ -46,7 +46,7 @@ export function CampaignDetailPage() {
         <div className="bg-white min-h-screen pt-32 pb-24">
             <SEO
                 title={`${campaign.title} - Campaign Detail`}
-                description={`Apply for ${campaign.brand}'s campaign on Arthurian.`}
+                description={`Apply for ${campaign.brand}'s campaign on Applied Korea.`}
             />
 
             <div className="max-w-[1000px] mx-auto px-6 md:px-12">

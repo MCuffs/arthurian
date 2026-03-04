@@ -36,7 +36,7 @@ export function NavBar() {
                 <div className="max-w-[1400px] mx-auto px-6 md:px-12 flex items-center justify-between">
                     {/* Logo */}
                     <NavLink to="/" className="text-2xl font-bold tracking-tighter z-50 relative text-neutral-900">
-                        ARTHURIAN
+                        APPLIED KOREA
                     </NavLink>
 
                     {/* Desktop Nav */}
@@ -76,6 +76,10 @@ export function NavBar() {
 
                         <NavLink to="/visa-calculator" className={({ isActive }) => `text-[13px] font-bold tracking-wide transition-colors bg-[#EEF7FF] text-[#1E6EA1] hover:bg-[#D9F3FF] px-3 py-1.5 rounded-full ${isActive ? 'ring-2 ring-[#29AEE1]/50' : ''}`}>
                             Visa Form
+                        </NavLink>
+
+                        <NavLink to="/proxy" className={({ isActive }) => `text-[13px] font-bold tracking-wide transition-all bg-gradient-to-r from-[#29AEE1] to-[#112E51] text-white hover:shadow-lg hover:-translate-y-0.5 px-4 py-1.5 rounded-full ${isActive ? 'ring-2 ring-[#112E51]/30' : ''}`}>
+                            Apply Proxy ⭐
                         </NavLink>
 
                         <NavLink to="/dashboard" className={({ isActive }) => `text-sm font-medium transition-colors hover:text-black ${isActive ? 'text-black' : 'text-neutral-500'}`}>
@@ -143,6 +147,7 @@ export function NavBar() {
 
                             <NavLink to="/blog" className={({ isActive }) => isActive ? 'text-red-600' : 'text-neutral-900'}>Blog</NavLink>
                             <NavLink to="/visa-calculator" className={({ isActive }) => isActive ? 'text-[#29AEE1]' : 'text-[#1E6EA1] font-extrabold'}>Visa Calculator</NavLink>
+                            <NavLink to="/proxy" className={({ isActive }) => isActive ? 'text-[#29AEE1]' : 'text-[#112E51] font-extrabold'}>Apply Proxy ⭐</NavLink>
                             <NavLink to="/dashboard" className={({ isActive }) => isActive ? 'text-red-600' : 'text-neutral-900'}>Dashboard</NavLink>
                             <NavLink to="/contact" className={({ isActive }) => isActive ? 'text-red-600' : 'text-neutral-900'}>Contact</NavLink>
                         </nav>

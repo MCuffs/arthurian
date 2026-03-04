@@ -58,7 +58,7 @@ export function ContactPage() {
 
     return (
         <div className="bg-white min-h-screen">
-            <SEO title="Contact" description="Get in touch with Arthurian Studio for creator partnerships and brand collaborations." />
+            <SEO title="Contact" description="Get in touch with Applied Korea Studio for creator partnerships and brand collaborations." />
 
             <section className="pt-48 pb-24 px-6 md:px-12 bg-neutral-900 text-white min-h-[50vh] flex flex-col justify-center">
                 <div className="max-w-[1200px] mx-auto w-full">

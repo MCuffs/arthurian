@@ -242,7 +242,7 @@ export function Home() {
     return (
         <div className="min-h-screen bg-white text-[#112E51] font-sans selection:bg-[#29AEE1] selection:text-white">
             <Helmet>
-                <title>Korean Resume Builder for Foreigners | Korean Resume Review | Arthurian</title>
+                <title>Korean Resume Builder for Foreigners | Korean Resume Review | Applied Korea</title>
                 <meta
                     name="description"
                     content="AI Korean resume builder for foreigners: convert English CV to Korean resume, then get Korean Resume Review and Custom Interview Questions by experts."
@@ -252,7 +252,7 @@ export function Home() {
                     content="korean resume, korean resume review, custom interview questions, english to korean resume, korean CV translation, korea job application, korean resume for foreigners, korean interview preparation"
                 />
                 <link rel="canonical" href="https://www.arthrian.cloud/" />
-                <meta property="og:title" content="Korean Resume Builder & Korean Resume Review | Arthurian" />
+                <meta property="og:title" content="Korean Resume Builder & Korean Resume Review | Applied Korea" />
                 <meta
                     property="og:description"
                     content="Upload English resume, get Korean resume output, and request expert Korean Resume Review + Custom Interview Questions."
@@ -268,7 +268,7 @@ export function Home() {
                                 name: 'How do I convert an English resume into a Korean resume?',
                                 acceptedAnswer: {
                                     '@type': 'Answer',
-                                    text: 'Upload your English PDF resume. Arthurian extracts resume content and generates a Korean HR-style resume format.',
+                                    text: 'Upload your English PDF resume. Applied Korea extracts resume content and generates a Korean HR-style resume format.',
                                 },
                             },
                             {
@@ -315,7 +315,7 @@ export function Home() {
                             <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor">
                                 <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
                             </svg>
-                            ARTHURIAN
+                            APPLIED KOREA
                         </button>
                         {/* Links */}
                         <button
@@ -522,7 +522,7 @@ export function Home() {
                             <span className="text-[#29AEE1]">DATA & AI PIPELINE</span>
                         </h3>
                         <p className="text-[17px] text-[#556987] max-w-[650px] mt-6 leading-[1.6]">
-                            From ingestion and processing to structuring and compliance, Arthurian ensures your career data achieves maximum impact in the Korean market.
+                            From ingestion and processing to structuring and compliance, Applied Korea ensures your career data achieves maximum impact in the Korean market.
                         </p>
                     </div>
 
@@ -861,7 +861,7 @@ export function Home() {
                     <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
                         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
                     </svg>
-                    <span className="font-extrabold text-[16px] tracking-tight">ARTHURIAN</span>
+                    <span className="font-extrabold text-[16px] tracking-tight">APPLIED KOREA</span>
                 </div>
                 <div className="flex items-center justify-center gap-6 text-[14px] font-bold mb-6">
                     <button onClick={() => setShowPrivacyModal(true)} className="hover:text-[#112E51] transition-colors flex items-center gap-2">
@@ -871,7 +871,7 @@ export function Home() {
                     <button className="hover:text-[#112E51] transition-colors">Terms of Service</button>
                     <button onClick={() => setShowContactModal(true)} className="hover:text-[#112E51] transition-colors">Contact</button>
                 </div>
-                <p className="text-[13px]">© 2026 Arthurian AI Resume. All rights reserved.</p>
+                <p className="text-[13px]">© 2026 Applied Korea AI Resume. All rights reserved.</p>
             </footer>
 
             {/* Privacy Policy Modal */}
@@ -945,7 +945,7 @@ export function Home() {
                 <div className="fixed inset-0 z-50 flex items-center justify-center bg-[#112E51]/70 backdrop-blur-[4px] p-4">
                     <div className="bg-white shadow-2xl rounded-2xl max-w-[460px] w-full overflow-hidden border border-[#29AEE1]/20">
                         <div className="border-b border-gray-100 px-6 py-5 flex justify-between items-center bg-white">
-                            <h3 className="text-[17px] font-extrabold text-[#112E51] tracking-tight">Contact Arthurian</h3>
+                            <h3 className="text-[17px] font-extrabold text-[#112E51] tracking-tight">Contact Applied Korea</h3>
                             <button
                                 onClick={() => setShowContactModal(false)}
                                 className="text-gray-400 hover:text-[#112E51] transition-colors p-1"

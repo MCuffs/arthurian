@@ -73,7 +73,7 @@ export function CreatorProfilePage() {
 
     return (
         <div className="bg-white min-h-screen pt-32 pb-24">
-            <SEO title={`${creator.name} - Creator Profile`} description={`Collaborate with ${creator.name} on Arthurian.`} />
+            <SEO title={`${creator.name} - Creator Profile`} description={`Collaborate with ${creator.name} on Applied Korea.`} />
             <div className="max-w-[1000px] mx-auto px-6 md:px-12">
                 <div className="flex flex-col md:flex-row gap-12 mb-16">
                     <div className="md:w-1/3">

@@ -9,6 +9,7 @@ import { ConsultingDashboard } from './pages/ConsultingDashboard';
 import { BlogListPage } from './pages/BlogListPage';
 import { BlogPostPage } from './pages/BlogPostPage';
 import { VisaCalculator } from './pages/VisaCalculator';
+import { ApplicationProxy } from './pages/ApplicationProxy';
 
 class AppErrorBoundary extends React.Component<{ children: React.ReactNode }, { hasError: boolean }> {
   constructor(props: { children: React.ReactNode }) {
@@ -59,6 +60,7 @@ export default function App() {
             <Route path="/preview" element={<ResumePreview />} />
             <Route path="/dashboard/consulting" element={<ConsultingDashboard />} />
             <Route path="/visa-calculator" element={<VisaCalculator />} />
+            <Route path="/proxy" element={<ApplicationProxy />} />
           </Routes>
         </main>
       </AppErrorBoundary>

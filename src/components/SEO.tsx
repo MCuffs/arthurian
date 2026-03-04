@@ -16,7 +16,7 @@ const DEFAULT_KEYWORDS = [
     '틱톡 라이브', '틱톡 에이전시',
     '인플루언서 마케팅', '크리에이터 수익화',
     'MCN', '라이브 커머스',
-    '아서리안 스튜디오', 'Arthurian Studio'
+    '아서리안 스튜디오', 'Applied Korea Studio'
 ];
 
 export function SEO({ title, description, url, image, keywords = [] }: SEOProps) {
@@ -30,7 +30,7 @@ export function SEO({ title, description, url, image, keywords = [] }: SEOProps)
     const organizationData = {
         '@context': 'https://schema.org',
         '@type': 'Organization',
-        name: 'Arthurian Studio',
+        name: 'Applied Korea Studio',
         alternateName: '아서리안 스튜디오',
         url: siteUrl,
         logo: `${siteUrl}/logo.png`,
@@ -47,7 +47,7 @@ export function SEO({ title, description, url, image, keywords = [] }: SEOProps)
     const serviceData = {
         '@context': 'https://schema.org',
         '@type': 'ProfessionalService',
-        name: 'Arthurian Studio - Threads Marketing Agency',
+        name: 'Applied Korea Studio - Threads Marketing Agency',
         description: '한국 1위 스레드 인플루언서 마케팅 에이전시. 텍스트 기반 마케팅의 새로운 패러다임.',
         url: siteUrl,
         priceRange: '₩₩',
@@ -63,7 +63,7 @@ export function SEO({ title, description, url, image, keywords = [] }: SEOProps)
     return (
         <Helmet>
             {/* Basic */}
-            <title>{title} | Arthurian Studio</title>
+            <title>{title} | Applied Korea Studio</title>
             <meta name="description" content={description} />
             <meta name="keywords" content={allKeywords} />
             <link rel="canonical" href={fullUrl} />
@@ -75,7 +75,7 @@ export function SEO({ title, description, url, image, keywords = [] }: SEOProps)
             <meta property="og:description" content={description} />
             <meta property="og:url" content={fullUrl} />
             <meta property="og:image" content={metaImage} />
-            <meta property="og:site_name" content="Arthurian Studio" />
+            <meta property="og:site_name" content="Applied Korea Studio" />
             <meta property="og:locale" content="ko_KR" />
 
             {/* Twitter */}

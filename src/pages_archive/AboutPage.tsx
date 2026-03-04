@@ -78,7 +78,7 @@ export function AboutPage() {
                             <span
                                 className="block text-6xl md:text-8xl lg:text-[10rem] font-black tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-neutral-900 via-blue-900 to-neutral-800"
                             >
-                                Arthurian
+                                Applied Korea
                             </span>
                         </motion.h1>
 
@@ -130,7 +130,7 @@ export function AboutPage() {
                                     className="italic text-blue-600"
                                     style={{ fontFamily: "'Cormorant Garamond', serif" }}
                                 >
-                                    Arthurian
+                                    Applied Korea
                                 </span>
                                 <span className="text-neutral-400">인가?</span>
                             </h2>

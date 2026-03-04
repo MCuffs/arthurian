@@ -8,17 +8,17 @@ export function BlogListPage() {
   return (
     <div className="min-h-screen bg-[#F8FBFF] text-[#112E51]">
       <Helmet>
-        <title>Blog | Korean Resume Tips | Arthurian</title>
+        <title>Blog | Korean Resume Tips | Applied Korea</title>
         <meta
           name="description"
-          content="Arthurian blog: Korean resume tips, interview strategy, and practical guidance for foreigners applying to Korean companies."
+          content="Applied Korea blog: Korean resume tips, interview strategy, and practical guidance for foreigners applying to Korean companies."
         />
         <link rel="canonical" href="https://www.arthrian.cloud/blog" />
       </Helmet>
 
       <header className="border-b border-slate-100 bg-white sticky top-0 z-20">
         <div className="max-w-[1100px] mx-auto px-6 py-4 flex items-center justify-between">
-          <Link to="/" className="font-extrabold tracking-tight text-[#29AEE1] text-[20px]">ARTHURIAN</Link>
+          <Link to="/" className="font-extrabold tracking-tight text-[#29AEE1] text-[20px]">APPLIED KOREA</Link>
           <Link to="/" className="text-sm font-semibold text-slate-600 hover:text-[#112E51]">Home</Link>
         </div>
       </header>

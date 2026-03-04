@@ -3,7 +3,7 @@ import { SEO } from '../components/SEO';
 export function TermsPage() {
     return (
         <div className="bg-white min-h-screen pt-32 pb-24 px-6">
-            <SEO title="Terms of Service" description="Arthurian Terms of Service" />
+            <SEO title="Terms of Service" description="Applied Korea Terms of Service" />
             <div className="max-w-[800px] mx-auto">
                 <h1 className="text-4xl font-bold mb-12">Terms of Service</h1>
 

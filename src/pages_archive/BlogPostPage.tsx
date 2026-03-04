@@ -61,7 +61,7 @@ const POSTS = {
 
                     <h3 className="text-2xl font-bold mt-12 mb-6">Solution: 아서리안, 텍스트의 힘을 빌리다</h3>
                     <p>
-                        고민 끝에 만난 파트너가 바로 <strong>아서리안(Arthurian)</strong>이었습니다. 아서리안은 숏폼의 홍수 속에서 <strong>'텍스트(Text)'와 '스레드(Threads)'</strong>에 집중한다는 점이 인상적이었습니다.
+                        고민 끝에 만난 파트너가 바로 <strong>아서리안(Applied Korea)</strong>이었습니다. 아서리안은 숏폼의 홍수 속에서 <strong>'텍스트(Text)'와 '스레드(Threads)'</strong>에 집중한다는 점이 인상적이었습니다.
                     </p>
                     <p>
                         아서리안의 솔루션은 명확했습니다.<br />
@@ -69,7 +69,7 @@ const POSTS = {
                     </p>
                     <img
                         src="/blog/hu100/arthurian-post.png"
-                        alt="Arthurian Marketing Post"
+                        alt="Applied Korea Marketing Post"
                         className="w-full rounded-2xl shadow-lg my-8 border border-neutral-100"
                     />
                     <p>
@@ -114,7 +114,7 @@ const POSTS = {
         title: '아서리안이 스레드(Threads) 전문 에이전시가 된 이유',
         subtitle: '도파민 중독의 시대에 던지는 우리의 대답',
         date: '2026. 02. 02',
-        author: 'Arthurian Team',
+        author: 'Applied Korea Team',
         category: 'Agency Insight',
         content: (
             <div className="space-y-12">
@@ -139,7 +139,7 @@ const POSTS = {
 
                 <div className="prose prose-lg prose-neutral max-w-none">
                     <p className="lead text-xl leading-relaxed text-neutral-600">
-                        안녕하세요, <strong>스레드 전문 마케팅 에이전시 아서리안(Arthurian)</strong>입니다.<br />
+                        안녕하세요, <strong>스레드 전문 마케팅 에이전시 아서리안(Applied Korea)</strong>입니다.<br />
                         최근 마케팅 업계에서 가장 뜨거운 감자는 단연 <strong>'숏폼 피로도(Short-form Fatigue)'</strong>입니다. 유튜브 쇼츠, 인스타그램 릴스, 틱톡까지... 하루에도 수백 개의 영상을 무의식적으로 소비하다 보니, 소비자들은 이제 '자극'에 무뎌지기 시작했습니다.
                     </p>
                     <p>
@@ -212,7 +212,7 @@ const POSTS = {
         title: '2026년, 브랜드가 스레드(Threads) 마케팅을 해야 하는 이유',
         subtitle: '숫자 뒤에 숨겨진 진짜 이야기, 그리고 지금 우리가 텍스트에 주목해야 하는 이유',
         date: '2026. 02. 02',
-        author: 'Arthurian Marketing Team',
+        author: 'Applied Korea Marketing Team',
         category: 'Marketing Insights',
         content: (
             <div className="space-y-12">
